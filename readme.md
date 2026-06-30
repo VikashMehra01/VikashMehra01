@@ -1,54 +1,30 @@
-<h1 align="center">Vikash Mehra</h1>
-<h3 align="center">Systems Programmer | C++ | IIT Ropar</h3>
+<h1 align="center">Hi, I'm Vikash 👋</h1>
 
 ---
 
-## 🚀 About Me
+> *I have a habit of falling into rabbit holes.*
 
-- 🎓 CSE @ IIT Ropar (2023–2027)
-- 💻 Focused on **Systems Programming, Networking, and Low-Level Development**
-- ⚙️ Strong in **C++**, working with performance-critical code
-- 🧠 Currently exploring:
-  - Operating Systems Internals
-  - Network Simulation (ns-3)
-  - Windows Driver Development (WDK, Minifilters)
+Every few months I find something interesting, spend an unreasonable amount of time understanding how it works, build a few things around it, and then repeat the process with something completely different.
 
----
+Sleep has filed several complaints.
 
-## 🛠 Tech Stack
+## 🧭 Rabbit holes I keep coming back to
 
-**Languages**
-- C++ (Primary)
-- C
-- Python (for scripting)
+* ⚙️ Backend Engineering
+* 🤖 AI Infrastructure
+* 🌐 Computer Networks
+* 🖥️ Systems Programming
+* 🐧 Linux
+* 🎮 Games *(playing them is a lot easier than making them)*
 
-**Domains**
-- Systems Programming
-- Networking
-- OS Internals
+## ⌨️ Languages I reach for
 
-
+```text
+C/C++      → home
+Python     → when I want to get things done
+JavaScript → when the web gets involved
+```
 
 ---
 
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikashmehra01&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashmehra01&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 📫 Contact
-
-- GitHub: https://github.com/vikashmehra01
-- LinkedIn: https://www.linkedin.com/in/vikashmehra01/
-
----
-
-## ⚡ Philosophy
-
-> I focus on building systems that work under constraints — performance, memory, and real-world complexity.
